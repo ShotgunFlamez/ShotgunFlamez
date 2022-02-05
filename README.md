@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ShotgunFlamez
-- 👀 I’m interested in learning Game Dev, Software Dev, Unity, C#, Pacal and how to use the SDL libaray with Pascal
-- 🌱 I’m currently learning Unity and C#
-- 📫 How to reach me shotgunflamezizcool@gmail.com or discord id: ShotgunFlamez#o711
+;-;
